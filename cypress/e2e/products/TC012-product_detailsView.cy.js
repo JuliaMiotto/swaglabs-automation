@@ -1,4 +1,4 @@
-describe('TC010 - View product details', () => {
+describe('TC012 - View product details', () => {
     it('Should redirect to product details page when a product is clicked', () => {
       cy.login();
   

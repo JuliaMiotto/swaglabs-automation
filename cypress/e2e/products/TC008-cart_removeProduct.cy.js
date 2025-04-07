@@ -1,4 +1,4 @@
-describe('TC005 - Remove product from cart', () => {
+describe('TC008 - Remove product from cart', () => {
     it('Should remove the product from the cart', () => {
       cy.login();
   

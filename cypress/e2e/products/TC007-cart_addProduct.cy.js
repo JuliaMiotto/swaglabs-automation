@@ -1,4 +1,4 @@
-describe('TC004 - Add product to cart', () => {
+describe('TC007 - Add product to cart', () => {
     it('Should add "Sauce Labs Backpack" to the cart', () => {
       cy.login();
   
